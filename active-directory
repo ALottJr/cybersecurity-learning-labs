@@ -1,0 +1,15 @@
+## Active Directory Home Lab
+
+Status: In Progress
+
+Building a home lab to understand how Active Directory works in a Windows domain environment.
+
+### Goals
+- Learn how users and computers are managed
+- Practice basic identity and access control
+- Understand how permissions and policies work
+
+### Tools Used
+- Windows Server
+- Windows Client
+- Virtual Machines
