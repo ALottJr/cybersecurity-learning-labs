@@ -18,3 +18,11 @@ A user was unable to access a shared folder required for work. An incident ticke
 5. Simulated troubleshooting
 6. Updated work notes
 7. Resolved incident
+
+## Business Impact
+
+Proper access control and ticket documentation ensure:
+- Minimal downtime for users
+- Accurate incident tracking
+- Accountability through audit logs
+- Compliance with organizational security policies
