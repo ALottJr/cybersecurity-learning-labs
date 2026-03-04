@@ -1,4 +1,4 @@
-cybersecurity-learning-labs
+
 
 Cybersecurity learning repository documenting progress toward CySA+. 
 Exploring SIEM fundamentals (Splunk), identity and access concepts, 
